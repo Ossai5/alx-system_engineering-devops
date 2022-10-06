@@ -1,2 +1,2 @@
 #!/bin/bash
-Chmod -r +x hello
+Chmod chmod -R +X . hello
